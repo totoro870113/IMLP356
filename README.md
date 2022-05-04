@@ -2,7 +2,7 @@
 
 > IMLP356_repository
 
-## 第一週
+## github環境
 ### 1. Markdown語法
 [Markdown Cheatsheet 中文版](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e#links)
 ### 2.Git 用法
