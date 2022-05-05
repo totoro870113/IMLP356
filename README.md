@@ -1,7 +1,8 @@
 # 台大資訊系統訓練班 356期 Python 機器學習課程(IMLP356)
 
 > IMLP356_repository
-
+## 第一週作業
+[Unit1](https://github.com/totoro870113/IMLP356/blob/main/Unit01_Crash%20Course%20on%20Python.ipynb)
 ## github環境
 ### 1. Markdown語法
 [Markdown Cheatsheet 中文版](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e#links)
