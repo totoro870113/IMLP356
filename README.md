@@ -1,6 +1,22 @@
 # 台大資訊系統訓練班 356期 Python 機器學習課程(IMLP356)
 
 > IMLP356_repository
+## 第四週作業
+### Unit4
+[Linear Regression_HW.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Linear%20Regression_HW.ipynb)
+
+---
+### 範例
+
+[Linear Regression_1.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Linear%20Regression_1.ipynb)
+
+[Linear Regression_2.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Linear%20Regression_2.ipynb)
+
+[Linear Regression_3.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Linear%20Regression_3.ipynb)
+
+[Ridge and Lasso Regression.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Ridge%20and%20Lasso%20Regression.ipynb)
+
+[_Loss Function.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/_Loss%20Function.ipynb)
 ## 第三週作業
 ### Unit3
 [4_Categorical_features_實戰.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)
