@@ -1,6 +1,12 @@
 # 台大資訊系統訓練班 356期 Python 機器學習課程(IMLP356)
 
 > IMLP356_repository
+## 第五週作業
+### Unit5
+[02_Logistic regression實戰.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
+
+[SVM實戰.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
+
 ## 第四週作業
 ### Unit4
 [Linear Regression_HW.ipynb](https://github.com/totoro870113/IMLP356/blob/main/Unit04/Linear%20Regression_HW.ipynb)
